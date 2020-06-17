@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917741422997",
+    "firebase_url": "https://chatapp-9ae30.firebaseio.com",
+    "project_id": "chatapp-9ae30",
+    "storage_bucket": "chatapp-9ae30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917741422997:android:05b162c404890e8ec6ce9c",
+        "android_client_info": {
+          "package_name": "com.khan.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917741422997-h5rt3vphk6olagf9tr0n72thmm2gqb1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2kc4yFMakneNJ-3Ok9POKqlbu0I3u4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917741422997-h5rt3vphk6olagf9tr0n72thmm2gqb1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
